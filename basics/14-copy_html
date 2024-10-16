@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v folder_source/folder_destination
+cp -u *..
